@@ -17,13 +17,16 @@
 ----
 
 ### 🛠️ Languages
-![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=111&logoColor=AAA&style=flat-square&link=)
-![angular](https://img.shields.io/badge/-angular-E23237?style=flat-square&logo=angular&logoColor=white)
-![dotnet](https://img.shields.io/badge/-.net-512BD4?style=flat-square&logo=.net&logoColor=white)
+![angular](https://img.shields.io/badge/-Angular-E23237?style=flat-square&logo=angular&logoColor=white)
+![dotnet](https://img.shields.io/badge/-.Net-512BD4?style=flat-square&logo=.net&logoColor=white)
 ![html](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![css](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 ![js](https://img.shields.io/badge/-JavaScript-FCDC00?style=flat-square&logo=javascript&logoColor=white)
 ![mysql](https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white)
+![python](https://img.shields.io/badge/-Python-29567D?style=flat-square&logo=python&logoColor=white)
+<!--
+![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=111&logoColor=AAA&style=flat-square&link=)
+-->
 
 ### 🛠️ Tools
 ![docker](https://img.shields.io/badge/-docker-1C8EED?style=flat-square&logo=docker&logoColor=white)
