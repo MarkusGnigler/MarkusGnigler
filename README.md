@@ -8,7 +8,8 @@
 http://github-readme-streak-stats.herokuapp.com/demo/?user=MarkusGnigler&theme=dracula&hide_border=false&properties=ring
 -->
 
-<img src = "https://github-readme-stats.vercel.app/api?username=MarkusGnigler&&show_icons=true&theme=radical" alt="readme stats">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NirmalSilwal&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+<img src = "https://github-readme-stats.vercel.app/api?username=MarkusGnigler&&show_icons=true&theme=radical" alt="readme stats">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkusGnigler&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ##### And after that?
