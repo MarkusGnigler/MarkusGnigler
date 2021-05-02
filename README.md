@@ -3,27 +3,20 @@
 <p align="center"> 
   I'm Markus Gnigler and i work on Webdevelopment and Webdesign<br>
 </p>
-
-### 🛠️ Languages
-- DotNet
-- Angular
-- Html/Css/Js
-
 ### Pessanate
 - :coffee: lover
 - :octocat: Open source
 
 <!-- https://github-readme-stats.vercel.app/api?username=DennisHartrampf&show_icons=true -->
 <p>
-  <a href="https://www.linkedin.com/in/dennis-hartrampf"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Java-Expert-_.svg?logo=java"></a>
+  <a href="#"><img src="https://img.shields.io/badge/DDD%20Code-Enthusiast-_.svg"></a>
   <a href="#"><img src="https://img.shields.io/badge/Clean%20Architecture-Enthusiast-_.svg"></a>
   <a href="#"><img src="https://img.shields.io/badge/Clean%20Code-Enthusiast-_.svg"></a>
 </p>
 
 ----
 
-![languages](https://img.shields.io/static/v1?label=&message=languages:&color=555&style=flat-square)
+### 🛠️ Languages
 ![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=111&logoColor=AAA&style=flat-square&link=)
 ![angular](https://img.shields.io/badge/-angular-E23237?style=flat-square&logo=angular&logoColor=white)
 ![dotnet](https://img.shields.io/badge/-.net-512BD4?style=flat-square&logo=.net&logoColor=white)
