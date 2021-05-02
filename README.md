@@ -61,8 +61,10 @@
 ![languages](https://img.shields.io/static/v1?label=&message=languages:&color=555&style=flat-square)
 ![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=111&logoColor=AAA&style=flat-square&link=)
 
-
+### 🛠️ Tools
 ![tools](https://img.shields.io/static/v1?label=&message=tools:&color=555&style=flat-square)
+
+![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=NPM&logoColor=white)
 
 ![docker](https://img.shields.io/static/v1?logo=docker&label=&message=docker&color=111&logoColor=AAA&style=flat-square)
 ![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=111&logoColor=AAA&style=flat-square)
