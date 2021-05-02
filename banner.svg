@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="700" height="200" viewBox="0 0 700 200">
+  <defs>
+    <clipPath id="clip-Benutzerdefiniertes_Format_1">
+      <rect width="700" height="200"/>
+    </clipPath>
+  </defs>
+  <g id="Benutzerdefiniertes_Format_1" data-name="Benutzerdefiniertes Format – 1" clip-path="url(#clip-Benutzerdefiniertes_Format_1)">
+    <rect width="700" height="200" fill="#232323"/>
+    <text id="console.log_hello-world_" data-name="console.log(&apos;hello-world&apos;);" transform="translate(192 95)" fill="#e4e4e4" font-size="20" font-family="CaskaydiaCoveNerdFontComplete-, CaskaydiaCove NF"><tspan x="0" y="0">console.log(&apos;hello-world&apos;);</tspan></text>
+    <text id="Console.WriteLine_hello-world_" data-name="Console.WriteLine(&quot;hello-world&quot;);" transform="translate(157 134)" fill="#e4e4e4" font-size="20" font-family="CaskaydiaCoveNerdFontComplete-, CaskaydiaCove NF"><tspan x="0" y="0">Console.WriteLine(&quot;hello-world&quot;);</tspan></text>
+    <g id="dotnet-logo" transform="translate(574.789 170.48) rotate(-45)">
+      <rect id="Rechteck_1" data-name="Rechteck 1" width="126" height="126" transform="translate(0 0.164)" fill="#512bd4"/>
+      <path id="Pfad_4" data-name="Pfad 4" d="M72.877,275.19A3.176,3.176,0,0,1,70.6,274.3a3.012,3.012,0,0,1,0-4.365,3.312,3.312,0,0,1,4.57,0,2.964,2.964,0,0,1,0,4.365A3.2,3.2,0,0,1,72.877,275.19Z" transform="translate(-50.4 -194.566)" fill="#fff"/>
+      <path id="Pfad_5" data-name="Pfad 5" d="M139.256,203.776h-5.8l-15.27-24.09a10.779,10.779,0,0,1-.959-1.9H117.1a34.586,34.586,0,0,1,.178,4.5v21.485h-5.127V171h6.175l14.757,23.519q.936,1.463,1.2,2.011h.089a29.866,29.866,0,0,1-.223-4.411V171h5.1Z" transform="translate(-81.134 -123.654)" fill="#fff"/>
+      <path id="Pfad_6" data-name="Pfad 6" d="M253.506,203.776H235.561V171h17.232v4.617H240.867V184.9h10.99v4.594h-10.99v9.691h12.639Z" transform="translate(-170.416 -123.654)" fill="#fff"/>
+      <path id="Pfad_7" data-name="Pfad 7" d="M330.795,175.617h-9.184v28.159H316.3V175.617h-9.162V171h23.652Z" transform="translate(-222.202 -123.654)" fill="#fff"/>
+    </g>
+    <g id="angular-icon-1-logo-svg-vector" transform="translate(43.25 72.937) rotate(45)">
+      <path id="Pfad_1" data-name="Pfad 1" d="M.1,21.592,58.744.7,118.966,21.22l-9.751,77.588L58.744,126.76,9.061,99.18Z" transform="translate(0)" fill="#e23237"/>
+      <path id="Pfad_2" data-name="Pfad 2" d="M186.131,21.22,125.908.7V126.76L176.38,98.855l9.751-77.635Z" transform="translate(-67.164)" fill="#b52e31"/>
+      <path id="Pfad_3" data-name="Pfad 3" d="M84.256,32.274l-36.542,81.3,13.651-.232L68.7,95h32.781l8.033,18.573,13.047.232L84.256,32.274Zm.093,26.049L96.7,84.139H73.483L84.349,58.323Z" transform="translate(-25.419 -16.858)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
