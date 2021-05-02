@@ -1,13 +1,11 @@
 <img src="https://github.com/MarkusGnigler/MarkusGnigler/blob/main/hello-world.svg" alt="Hello world" width="1025" height="409">
 
 <p align="center"> 
-  I'm Markus Gnigler and i work on Webdevelopment and Webdesign<br>
+  Hy :wave: I'm Markus Gnigler and i work on Webdevelopment and Webdesign<br>
 </p>
 
 - :coffee: lover
 - :octocat: Open source
-
-----
 
 <!-- https://github-readme-stats.vercel.app/api?username=DennisHartrampf&show_icons=true -->
 <p>
