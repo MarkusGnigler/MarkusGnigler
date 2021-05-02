@@ -71,8 +71,9 @@
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarkusGnigler)](https://github.com/anuraghazra/github-readme-stats)
 -->
-
+<!--
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MarkusGnigler&theme=dracula)](https://git.io/streak-stats)
+-->
 <!--
 http://github-readme-streak-stats.herokuapp.com/demo/?user=MarkusGnigler&theme=dracula&hide_border=false&properties=ring
 -->
