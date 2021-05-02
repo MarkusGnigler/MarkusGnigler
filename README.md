@@ -22,12 +22,11 @@
 <p>
   <a href="https://www.linkedin.com/in/dennis-hartrampf"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
   <a href="#"><img src="https://img.shields.io/badge/Java-Expert-_.svg?logo=java"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Kotlin-Enthusiast-_.svg?logo=kotlin"></a>
-  <a href="#"><img src="https://img.shields.io/badge/TDD-Advocate-_.svg"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Clean%20Code-Evangelist-_.svg"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Clean%20Architecture-Enthusiast-_.svg"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Clean%20Code-Enthusiast-_.svg"></a>
 </p>
 
-
+<!--
   <p>
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
@@ -54,7 +53,7 @@
     <img src="https://img.shields.io/badge/-OVH%20Cloud-123F6D?style=flat-square&logo=OVH&logoColor=white"/>
     <img src="https://img.shields.io/badge/-Codacy-222F29?style=flat-square&logo=Codacy&logoColor=white"/>
   </p>
-  
+-->
   
   
 ----
