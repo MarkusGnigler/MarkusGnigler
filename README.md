@@ -3,7 +3,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarkusGnigler)](https://github.com/anuraghazra/github-readme-stats)
 
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MarkusGnigler&theme=blue-green)](https://git.io/streak-stats)<img height="185" alt="Github Streak" src="https://camo.githubusercontent.com/797ae82e5bbab42afb65299666ccea8e4328bb6470407c14bcef614dab6fabe6/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f5262444b61637a71576f76497567794a6d572f323030772e776562703f6369643d656366303565343779727a6e687964347731636e77626533686c696c706d6c733363306d7273796d68647a6d7a70357a267269643d323030772e77656270" data-canonical-src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e47yrznhyd4w1cnwbe3hlilpmls3c0mrsymhdzmzp5z&amp;rid=200w.webp" style="max-width:100%;">
 
 
 <h1 align="center"><img src="https://github.com/w3bdesign/w3bdesign/blob/master/svg/animated-header.svg" alt="Header image" /></h1>
