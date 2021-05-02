@@ -95,14 +95,3 @@ http://github-readme-streak-stats.herokuapp.com/demo/?user=MarkusGnigler&theme=d
 <!--
 https://arturssmirnovs.github.io/github-profile-readme-generator/
 -->
-
-
-# Hey there :wave:
-
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
-</p>
-
