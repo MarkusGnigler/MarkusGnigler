@@ -74,7 +74,7 @@
 ![eslint](https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white)
 ![html](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![css](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
-![js](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=js&logoColor=white)
+![js](https://img.shields.io/badge/-JavaScript-5849BE?style=flat-square&logo=js&logoColor=white)
     
     
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarkusGnigler)](https://github.com/anuraghazra/github-readme-stats)
