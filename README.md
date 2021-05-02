@@ -20,15 +20,11 @@ http://github-readme-streak-stats.herokuapp.com/demo/?user=MarkusGnigler&theme=d
 
 
 
+<!--
+https://arturssmirnovs.github.io/github-profile-readme-generator/
+-->
 
-<h1 align="center"><img src="https://github.com/w3bdesign/w3bdesign/blob/master/svg/animated-header.svg" alt="Header image" /></h1>
 
-<span align="left">Hello to all  My name is Daniel Fjeldstad and I have been working with webdesign and development since 2000. <br/><br />I have experience with a wide range of languages and tools, like: 
-<br /> <br />
-  Javascript, Typescript, PHP, React, Vue 2 and 3, Gatsby, Nextjs, Nuxtjs, Laravel, WordPress, WooCommerce and many more.
-  <br /> <br />
-  I particularly value code quality, continuous improvement and following best coding practices as much as possible. 
-</span>
 
 <h2 align="center">🛠️ Languages</h2>
 <p align="center">
@@ -94,30 +90,4 @@ Here are some ideas to get you started:
 
 <img src = "https://github-readme-stats.vercel.app/api?username=NirmalSilwal&&show_icons=true&theme=radical" alt="readme stats">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NirmalSilwal&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
-
-<!---<details>
-<summary><b>Coding Statistics over Last 7 days. . .</b>  </summary><br/>
-  <p align="center">
-    <img src = "https://wakatime.com/share/@nirmalsilwal/ca8e12f4-d5a5-47a9-997d-6fafb6a5d7d6.svg" height="400">
-  </p>
-</details>
- 😄 Pronouns: He/His
-- ⚡ Fun fact: Discovered my hobby of Reading during covid19.
-<img src = "https://github-readme-stats.vercel.app/api?username=NirmalSilwal&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-All inbuilt themes :-
-dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula  
-     ###  layout of languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NirmalSilwal&language=compact)](https://github.com/anuraghazra/github-readme-stats)
-               to add extra pins of your repo
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NirmalSilwal&repo=Problem-Solving)](https://github.com/anuraghazra/github-readme-stats)
-[![HitCount](http://hits.dwyl.com/NirmalSilwal/NirmalSilwal.svg)](http://hits.dwyl.com/NirmalSilwal/NirmalSilwal) 
-- 📫 How to reach me: [Twitter](https://twitter.com/silwal_nirmal) [Linkedln](https://www.linkedin.com/in/nirmal-silwal/)
-<br><br><br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=NirmalSilwal" alt="nirmalsilwal" /> </p>
-linkedln old link : src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nirmal-silwal"
-twitter old link : src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg"
-old links
-<img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="20" height="20"/></p><p align="center">
--->
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NirmalSilwal&theme=blue-green)](https://git.io/streak-stats)<img height="185" alt="Github Streak" src="https://camo.githubusercontent.com/797ae82e5bbab42afb65299666ccea8e4328bb6470407c14bcef614dab6fabe6/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f5262444b61637a71576f76497567794a6d572f323030772e776562703f6369643d656366303565343779727a6e687964347731636e77626533686c696c706d6c733363306d7273796d68647a6d7a70357a267269643d323030772e77656270" data-canonical-src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e47yrznhyd4w1cnwbe3hlilpmls3c0mrsymhdzmzp5z&amp;rid=200w.webp" style="max-width:100%;">
+stats)<img height="185" alt="Github Streak" src="https://camo.githubusercontent.com/797ae82e5bbab42afb65299666ccea8e4328bb6470407c14bcef614dab6fabe6/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f5262444b61637a71576f76497567794a6d572f323030772e776562703f6369643d656366303565343779727a6e687964347731636e77626533686c696c706d6c733363306d7273796d68647a6d7a70357a267269643d323030772e77656270" data-canonical-src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/200w.webp?cid=ecf05e47yrznhyd4w1cnwbe3hlilpmls3c0mrsymhdzmzp5z&amp;rid=200w.webp" style="max-width:100%;">
