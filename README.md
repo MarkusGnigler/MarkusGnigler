@@ -26,7 +26,7 @@
 ![languages](https://img.shields.io/static/v1?label=&message=languages:&color=555&style=flat-square)
 ![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=111&logoColor=AAA&style=flat-square&link=)
 ![angular](https://img.shields.io/badge/-angular-E23237?style=flat-square&logo=angular&logoColor=white)
-![dotnet](https://img.shields.io/badge/-dotnet-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![dotnet](https://img.shields.io/badge/-.net-512BD4?style=flat-square&logo=.net&logoColor=white)
 ![html](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![css](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
 ![js](https://img.shields.io/badge/-JavaScript-5849BE?style=flat-square&logo=javascript&logoColor=white)
@@ -74,8 +74,9 @@
   </p>
 -->
   
-  
+<!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarkusGnigler)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MarkusGnigler&theme=dracula)](https://git.io/streak-stats)
 <!--
