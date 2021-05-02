@@ -2,20 +2,30 @@
 
 <p align="center"> 
   I'm Markus Gnigler and i work on Webdevelopment and Webdesign<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
 </p>
-### I'm Markus Gnigler and i work on Webdevelopment and Webdesign
-
-### My
-- ☕
 
 ### 🛠️ Languages
+- DotNet
+- Angular
+- Html/Css/Js
 
 ### 🛠️ Tools
+- Linux
+- Docker
+- Gitlab
 
 ### Pessanate
 - :coffee: lover
 - :octocat: Open source
+
+<!-- https://github-readme-stats.vercel.app/api?username=DennisHartrampf&show_icons=true -->
+<p>
+  <a href="https://www.linkedin.com/in/dennis-hartrampf"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Java-Expert-_.svg?logo=java"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Kotlin-Enthusiast-_.svg?logo=kotlin"></a>
+  <a href="#"><img src="https://img.shields.io/badge/TDD-Advocate-_.svg"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Clean%20Code-Evangelist-_.svg"></a>
+</p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarkusGnigler)](https://github.com/anuraghazra/github-readme-stats)
 
