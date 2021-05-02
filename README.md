@@ -9,7 +9,7 @@
 
 <!-- https://github-readme-stats.vercel.app/api?username=DennisHartrampf&show_icons=true -->
 <p>
-  <a href="#"><img src="https://img.shields.io/badge/DDD%20Code-Enthusiast-_.svg"></a>
+  <a href="#"><img src="https://img.shields.io/badge/DDD-Advocate-_.svg"></a>
   <a href="#"><img src="https://img.shields.io/badge/Clean%20Architecture-Enthusiast-_.svg"></a>
   <a href="#"><img src="https://img.shields.io/badge/Clean%20Code-Enthusiast-_.svg"></a>
 </p>
