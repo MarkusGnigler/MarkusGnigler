@@ -1,4 +1,4 @@
-<img src="https://github.com/MarkusGnigler/MarkusGnigler/blob/main/hello-world.svg" alt="Hello world" width="1025" height="409">
+<img src="https://github.com/MarkusGnigler/MarkusGnigler/blob/main/banner.svg" alt="banner" width="1025" height="409">
 
 <p align="center"> 
   Hy :wave: I'm Markus Gnigler and i work on Webdevelopment and Webdesign<br>
