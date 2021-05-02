@@ -9,11 +9,6 @@
 - Angular
 - Html/Css/Js
 
-### 🛠️ Tools
-- Docker
-- Gitlab
-- Nginx
-
 ### Pessanate
 - :coffee: lover
 - :octocat: Open source
@@ -30,6 +25,11 @@
 
 ![languages](https://img.shields.io/static/v1?label=&message=languages:&color=555&style=flat-square)
 ![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=111&logoColor=AAA&style=flat-square&link=)
+![angular](https://img.shields.io/badge/-angular-E23237?style=flat-square&logo=angular&logoColor=white)
+![dotnet](https://img.shields.io/badge/-dotnet-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![html](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
+![css](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
+![js](https://img.shields.io/badge/-JavaScript-5849BE?style=flat-square&logo=javascript&logoColor=white)
 ![mysql](https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white)
 
 ### 🛠️ Tools
@@ -38,9 +38,6 @@
 ![nginx](https://img.shields.io/badge/-nginx-40BA12?style=flat-square&logo=nginx&logoColor=white)
 ![webpack](https://img.shields.io/badge/-WebPack-1C78C0?style=flat-square&logo=WebPack&logoColor=white)
 ![eslint](https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white)
-![html](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
-![css](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
-![js](https://img.shields.io/badge/-JavaScript-5849BE?style=flat-square&logo=javascript&logoColor=white)
 ![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=111&logoColor=AAA&style=flat-square)
 ![insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=Insomnia&logoColor=white)
 ![debian](https://img.shields.io/badge/-Debian-A80030?style=flat-square&logo=Debian&logoColor=white)
