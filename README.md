@@ -22,7 +22,7 @@
 ![dotnet](https://img.shields.io/badge/-.net-512BD4?style=flat-square&logo=.net&logoColor=white)
 ![html](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![css](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
-![js](https://img.shields.io/badge/-JavaScript-5849BE?style=flat-square&logo=javascript&logoColor=white)
+![js](https://img.shields.io/badge/-JavaScript-FCDC00?style=flat-square&logo=javascript&logoColor=white)
 ![mysql](https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white)
 
 ### 🛠️ Tools
