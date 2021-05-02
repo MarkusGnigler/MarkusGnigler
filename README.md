@@ -33,9 +33,9 @@
 ![mysql](https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white)
 
 ### 🛠️ Tools
-![docker](https://img.shields.io/static/v1?logo=docker&label=&message=docker&color=111&logoColor=AAA&style=flat-square)
+![docker](https://img.shields.io/badge/-docker-1C8EED?style=flat-square&logo=docker&logoColor=white)
 ![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=NPM&logoColor=white)
-![nginx](https://img.shields.io/badge/-nginx-1C78C0?style=flat-square&logo=nginx&logoColor=white)
+![nginx](https://img.shields.io/badge/-nginx-40BA12?style=flat-square&logo=nginx&logoColor=white)
 ![webpack](https://img.shields.io/badge/-WebPack-1C78C0?style=flat-square&logo=WebPack&logoColor=white)
 ![eslint](https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white)
 ![html](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
