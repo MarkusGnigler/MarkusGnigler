@@ -1,14 +1,16 @@
+<img src="https://github.com/MarkusGnigler/MarkusGnigler/blob/main/banner.svg" alt="banner" width="1025" height="409">
+
 <div align="center"> 
   <h3>Hi there :wave:, I'm Markus Gnigler</h3>
   <h4>and I'm am working on Webdevelopment</h4>
 </div>
-<img src="https://github.com/MarkusGnigler/MarkusGnigler/blob/main/banner.svg" alt="banner" width="1025" height="409">
-
 <!--
 <img src="https://github.com/MarkusGnigler/MarkusGnigler/blob/main/banner.svg" alt="banner" width="1025" height="409">
 
 ### Hi there :wave:, I'm Markus Gnigler
+
 #### and I'm working on Webdevelopment
+
 -->
 
 - :coffee: lover
