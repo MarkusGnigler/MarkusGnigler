@@ -1,114 +1,60 @@
+<div align="center"> 
+  <h3>Hi there :wave:, I'm Markus Gnigler</h3>
+  <h4>and I'm am working on Webdevelopment</h4>
+</div>
 <img src="https://github.com/MarkusGnigler/MarkusGnigler/blob/main/banner.svg" alt="banner" width="1025" height="409">
 
-<p align="center"> 
-  Hy :wave: I'm Markus Gnigler and i work on Webdevelopment and Webdesign<br>
-</p>
+<!--
+<img src="https://github.com/MarkusGnigler/MarkusGnigler/blob/main/banner.svg" alt="banner" width="1025" height="409">
+
+### Hi there :wave:, I'm Markus Gnigler
+#### and I'm working on Webdevelopment
+-->
 
 - :coffee: lover
 - :octocat: Open source
 
-<!-- https://github-readme-stats.vercel.app/api?username=DennisHartrampf&show_icons=true -->
 <p>
   <a href="#"><img src="https://img.shields.io/badge/DDD-Advocate-_.svg"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Clean%20Architecture-Enthusiast-_.svg"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Clean%20Code-Enthusiast-_.svg"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Clean%20Code/Architecture-Enthusiast-_.svg"></a>
 </p>
 
-----
+---
 
 ### 🛠️ Languages
-![angular](https://img.shields.io/badge/-Angular-E23237?style=flat-square&logo=angular&logoColor=white)
+
 ![dotnet](https://img.shields.io/badge/-.Net-512BD4?style=flat-square&logo=.net&logoColor=white)
+![angular](https://img.shields.io/badge/-Angular-E23237?style=flat-square&logo=angular&logoColor=white)
 ![html](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![css](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
-![js](https://img.shields.io/badge/-JavaScript-FCDC00?style=flat-square&logo=javascript&logoColor=white)
+
+<!-- ![js](https://img.shields.io/badge/-JavaScript-FCDC00?style=flat-square&logo=javascript&logoColor=white) -->
+
+![ts](https://img.shields.io/badge/-TypeScript-719af4?style=flat-square&logo=typescript&logoColor=white)
 ![mysql](https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white)
 ![python](https://img.shields.io/badge/-Python-29567D?style=flat-square&logo=python&logoColor=white)
-<!--
-![python](https://img.shields.io/static/v1?logo=python&label=&message=python&color=111&logoColor=AAA&style=flat-square&link=)
--->
 
 ### 🛠️ Tools
+
 ![docker](https://img.shields.io/badge/-docker-1C8EED?style=flat-square&logo=docker&logoColor=white)
 ![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=NPM&logoColor=white)
 ![nginx](https://img.shields.io/badge/-nginx-40BA12?style=flat-square&logo=nginx&logoColor=white)
 ![webpack](https://img.shields.io/badge/-WebPack-1C78C0?style=flat-square&logo=WebPack&logoColor=white)
 ![eslint](https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white)
-![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=111&logoColor=AAA&style=flat-square)
+![git](https://img.shields.io/badge/-git-f14e32?style=flat-square&logo=git&logoColor=white)
 ![insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=Insomnia&logoColor=white)
 ![debian](https://img.shields.io/badge/-Debian-A80030?style=flat-square&logo=Debian&logoColor=white)
 
-----
+---
 
+![Markus github activity graph](https://activity-graph.herokuapp.com/graph?username=MarkusGnigler&theme=react-dark)
 
+<!-- ![Markus github stats](https://github-readme-stats.vercel.app/api?username=MarkusGnigler&&show_icons=true&theme=radical) -->
 
-<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkusGnigler&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
-<h2 align="center">🛠️ Languages</h2>
-<p align="center">
-  <img height="50" width="50" alt="Javascript" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/javascript.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="50" width="50" alt="Typescript" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/typescript.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="50" width="50" alt="PHP" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/php.svg" />&nbsp;&nbsp;&nbsp;&nbsp; 
-</p>
-<h2 align="center">🛠️ Tools</h2>
-<p align="center">
-  <img height="50" width="50" alt="react" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/react.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="50" width="50" alt="react" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/vue-dot-js.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="50" width="50" alt="mysql" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/mysql.svg" />&nbsp;&nbsp;&nbsp;&nbsp;  
-  <img height="50" width="50" alt="wordpress" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/wordpress.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="50" width="50" alt="magento" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/laravel.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="50" width="50" alt="gatsby" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/gatsby.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="50" width="50" alt="nextjs" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/next-dot-js.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="50" width="50" alt="docker" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/docker.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="50" width="50" alt="graphql" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/graphql.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="50" width="50" alt="adobe" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.1/icons/adobe.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-  <p>
-    <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Git-F44D27?style=flat-square&logo=Git&logoColor=white"/>
-  
-    <img src="https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=Apache&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Trello-0079BF?style=flat-square&logo=Trello&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Slack-E01563?style=flat-square&logo=Slack&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Sketch-FA6400?style=flat-square&logo=Sketch&logoColor=white"/>
-    
-    <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=Insomnia&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white"/><br/>
-    <img src="https://img.shields.io/badge/-Vue.js-42B883?style=flat-square&logo=Vue.js&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Laravel-F55247?style=flat-square&logo=Laravel&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Lumen-E74430?style=flat-square&logo=Lumen&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Storybook-FF4785?style=flat-square&logo=Storybook&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-WebPack-1C78C0?style=flat-square&logo=WebPack&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Debian-A80030?style=flat-square&logo=Debian&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=Google%20Cloud&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-OVH%20Cloud-123F6D?style=flat-square&logo=OVH&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Codacy-222F29?style=flat-square&logo=Codacy&logoColor=white"/>
-  </p>
--->
-  
-<!--
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarkusGnigler)](https://github.com/anuraghazra/github-readme-stats)
--->
-<!--
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MarkusGnigler&theme=dracula)](https://git.io/streak-stats)
--->
-<!--
-http://github-readme-streak-stats.herokuapp.com/demo/?user=MarkusGnigler&theme=dracula&hide_border=false&properties=ring
--->
-
-<img src = "https://github-readme-stats.vercel.app/api?username=MarkusGnigler&&show_icons=true&theme=radical" alt="readme stats">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkusGnigler&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-
-----
+---
 
 ### And what should you do next?
+
 - 📫 Contact me for all talk's or work belong to Software <a href="www.pixeldance.at" target="_blank">PixelDance</a>
-
-
-<!--
-https://arturssmirnovs.github.io/github-profile-readme-generator/
--->
