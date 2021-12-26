@@ -51,14 +51,13 @@
 
 ---
 
+##### 📫 Contact me for all talk's or work belong to Software <a href="www.pixeldance.at" target="_blank">PixelDance</a>
+
+---
+
 ![Markus github activity graph](https://activity-graph.herokuapp.com/graph?username=MarkusGnigler&theme=react-dark)
 
 <!-- ![Markus github stats](https://github-readme-stats.vercel.app/api?username=MarkusGnigler&&show_icons=true&theme=radical) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkusGnigler&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
----
-
-### And what should you do next?
-
-- 📫 Contact me for all talk's or work belong to Software <a href="www.pixeldance.at" target="_blank">PixelDance</a>
