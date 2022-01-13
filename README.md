@@ -31,24 +31,28 @@
 ![angular](https://img.shields.io/badge/-Angular-E23237?style=flat-square&logo=angular&logoColor=white)
 ![html](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![css](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
-
-<!-- ![js](https://img.shields.io/badge/-JavaScript-FCDC00?style=flat-square&logo=javascript&logoColor=white) -->
-
 ![ts](https://img.shields.io/badge/-TypeScript-719af4?style=flat-square&logo=typescript&logoColor=white)
 ![mysql](https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=white)
 ![python](https://img.shields.io/badge/-Python-29567D?style=flat-square&logo=python&logoColor=white)
 
-### 🛠️ Tools
+<!-- ![js](https://img.shields.io/badge/-JavaScript-FCDC00?style=flat-square&logo=javascript&logoColor=white) -->
+
+### ⚙️ Tools
 
 ![docker](https://img.shields.io/badge/-docker-1C8EED?style=flat-square&logo=docker&logoColor=white)
+![nuget](https://img.shields.io/badge/-NuGet-004880?style=flat-square&logo=NuGet&logoColor=white)
 ![npm](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=NPM&logoColor=white)
 ![nginx](https://img.shields.io/badge/-nginx-40BA12?style=flat-square&logo=nginx&logoColor=white)
 ![webpack](https://img.shields.io/badge/-WebPack-1C78C0?style=flat-square&logo=WebPack&logoColor=white)
 ![eslint](https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=ESLint&logoColor=white)
 ![git](https://img.shields.io/badge/-git-f14e32?style=flat-square&logo=git&logoColor=white)
 ![insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=Insomnia&logoColor=white)
-![debian](https://img.shields.io/badge/-Debian-A80030?style=flat-square&logo=Debian&logoColor=white)
 
+### ⚙️ Platform
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![debian](https://img.shields.io/badge/-Debian-A80030?style=flat-square&logo=Debian&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ---
 
 #### 📫 Contact me for all talk's or work belong to Software <a href="https://www.pixeldance.at" target="_blank">PixelDance</a>
