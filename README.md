@@ -17,7 +17,7 @@
 
 ---
 
-### 🛠️ Languages & Frameworks
+### 💻 Languages & Frameworks
 
 ![dotnet](https://img.shields.io/badge/-.Net-512BD4?style=flat-square&logo=.net&logoColor=white)
 ![angular](https://img.shields.io/badge/-Angular-E23237?style=flat-square&logo=angular&logoColor=white)
@@ -29,7 +29,7 @@
 
 <!-- ![js](https://img.shields.io/badge/-JavaScript-FCDC00?style=flat-square&logo=javascript&logoColor=white) -->
 
-### ⚙️ Tools
+### 🛠️ Tools
 
 ![docker](https://img.shields.io/badge/-docker-1C8EED?style=flat-square&logo=docker&logoColor=white)
 ![nuget](https://img.shields.io/badge/-NuGet-004880?style=flat-square&logo=NuGet&logoColor=white)
@@ -40,7 +40,7 @@
 ![git](https://img.shields.io/badge/-git-f14e32?style=flat-square&logo=git&logoColor=white)
 ![insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=Insomnia&logoColor=white)
 
-### 💻 Platform
+### ⚙️ Platform
 ![github](https://img.shields.io/badge/-github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 ![gitlab](https://img.shields.io/badge/-gitlab-%23121011.svg?style=flat-square&logo=gitlab&logoColor=white)
 ![debian](https://img.shields.io/badge/-Debian-A80030?style=flat-square&logo=Debian&logoColor=white)
