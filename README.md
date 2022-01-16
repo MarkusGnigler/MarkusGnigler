@@ -3,9 +3,8 @@
 
 <div align="center"> 
   <h3>Hi there :wave:, I'm Markus Gnigler</h3>
-<!--   <h4>and I'm am working on Webdevelopment</h4> -->
-<!--   <h4>I'm a Fullstack Webdevelopment. I enjoy :coffee:, Type Safety, Functional & Reactive Programming and Distributed Systems.</h4> -->
-  <h4>I'm a Fullstack Webdevelopment that enjoys Type Safety, Functional & Reactive Programming and Distributed Systems.</h4>
+  <h4>I'm a Fullstack Webdevelopment that enjoys ...</h4>
+  <h4>Type Safety, Functional & Reactive Programming and Distributed Systems.</h4>
 </div>
 
 - :coffee: lover
