@@ -5,18 +5,12 @@
   <h3>Hi there :wave:, I'm Markus Gnigler</h3>
 <!--   <h4>and I'm am working on Webdevelopment</h4> -->
 <!--   <h4>I'm a Fullstack Webdevelopment. I enjoy :coffee:, Type Safety, Functional & Reactive Programming and Distributed Systems.</h4> -->
-  <h4>I'm a Fullstack Webdevelopment that enjoys :coffee:, Type Safety, Functional & Reactive Programming and Distributed Systems.</h4>
+  <h4>I'm a Fullstack Webdevelopment that enjoys :coffee:, :octocat: Open source, Type Safety, Functional & Reactive Programming and Distributed Systems.</h4>
 </div>
-
-<!-- - :octocat: Open source -->
 
 ![DDD](https://img.shields.io/badge/DDD-Advocate-_.svg)
 ![CleanCode](https://img.shields.io/badge/Clean%20Code/Architecture-Enthusiast-_.svg)
-<!-- <p>
-  <a href="#"><img src="https://img.shields.io/badge/DDD-Advocate-_.svg"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Clean%20Code/Architecture-Enthusiast-_.svg"></a>
-</p>
- -->
+
 ---
 
 ### 🛠️ Languages & Frameworks
@@ -47,6 +41,7 @@
 ![gitlab](https://img.shields.io/badge/-gitlab-%23121011.svg?style=flat-square&logo=gitlab&logoColor=white)
 ![debian](https://img.shields.io/badge/-Debian-A80030?style=flat-square&logo=Debian&logoColor=white)
 ![raspberry](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat-square&logo=Raspberry-Pi&logoColor=white)
+
 ---
 
 #### 📫 Contact me for all talk's or work belong to Software <a href="https://www.pixeldance.at" target="_blank">PixelDance</a>
