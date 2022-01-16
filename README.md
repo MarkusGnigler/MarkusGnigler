@@ -2,9 +2,9 @@
 <img src="https://github.com/MarkusGnigler/MarkusGnigler/blob/main/banner.svg" alt="banner" width="1025" height="409">
 
 <div align="center">   
-  <h2>Hi there :wave:, I'm Markus Gnigler</h2>
-  <h3>I'm a passionate Webdevelopment that enjoys ...</h3>
-  <h4>Type Safety, Functional & Reactive Programming and Distributed Systems.</h4>
+<h2>Hi there :wave:, I'm Markus Gnigler</h2>
+<h3>I'm a passionate Webdevelopment that enjoys ...</h3>
+<h4>Type Safety, Functional & Reactive Programming and Distributed Systems.</h4>
 </div>
 
 <!-- - :coffee: lover -->
