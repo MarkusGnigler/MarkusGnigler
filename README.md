@@ -40,7 +40,7 @@
 ![git](https://img.shields.io/badge/-git-f14e32?style=flat-square&logo=git&logoColor=white)
 ![insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=Insomnia&logoColor=white)
 
-### ⚙️ Platform
+### 💻 Platform
 ![github](https://img.shields.io/badge/-github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 ![gitlab](https://img.shields.io/badge/-gitlab-%23121011.svg?style=flat-square&logo=gitlab&logoColor=white)
 ![debian](https://img.shields.io/badge/-Debian-A80030?style=flat-square&logo=Debian&logoColor=white)
