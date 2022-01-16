@@ -1,27 +1,20 @@
 
-<!--
-<img src="https://github.com/MarkusGnigler/MarkusGnigler/blob/main/banner.svg" alt="banner" width="1025" height="409">
-
-### Hi there :wave:, I'm Markus Gnigler
-
-#### and I'm working on Webdevelopment
-
--->
-
 <img src="https://github.com/MarkusGnigler/MarkusGnigler/blob/main/banner.svg" alt="banner" width="1025" height="409">
 
 <div align="center"> 
   <h3>Hi there :wave:, I'm Markus Gnigler</h3>
-  <h4>and I'm am working on Webdevelopment</h4>
+<!--   <h4>and I'm am working on Webdevelopment</h4> -->
+  <h4>I'm a Fullstack Webdevelopment. I enjoy :coffee:, Type Safety, Functional & Reactive Programming and Distributed Systems.</h4>
 </div>
 
-- :coffee: lover
-- :octocat: Open source
+<!-- - :octocat: Open source -->
 
-<p>
+[DDD](https://img.shields.io/badge/DDD-Advocate-_.svg)
+[CleanCode](https://img.shields.io/badge/Clean%20Code/Architecture-Enthusiast-_.svg)
+<!-- <p>
   <a href="#"><img src="https://img.shields.io/badge/DDD-Advocate-_.svg"></a>
   <a href="#"><img src="https://img.shields.io/badge/Clean%20Code/Architecture-Enthusiast-_.svg"></a>
-</p>
+</p> -->
 
 ---
 
