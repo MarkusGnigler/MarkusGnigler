@@ -25,7 +25,7 @@
 
 ---
 
-### 🛠️ Languages
+### 🛠️ Languages & Frameworks
 
 ![dotnet](https://img.shields.io/badge/-.Net-512BD4?style=flat-square&logo=.net&logoColor=white)
 ![angular](https://img.shields.io/badge/-Angular-E23237?style=flat-square&logo=angular&logoColor=white)
@@ -49,10 +49,10 @@
 ![insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=Insomnia&logoColor=white)
 
 ### ⚙️ Platform
-![github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![gitlab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![github](https://img.shields.io/badge/-github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
+![gitlab](https://img.shields.io/badge/-gitlab-%23121011.svg?style=flat-square&logo=gitlab&logoColor=white)
 ![debian](https://img.shields.io/badge/-Debian-A80030?style=flat-square&logo=Debian&logoColor=white)
-![raspberry-pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+![raspberry](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat-square&logo=Raspberry-Pi&logoColor=white)
 ---
 
 #### 📫 Contact me for all talk's or work belong to Software <a href="https://www.pixeldance.at" target="_blank">PixelDance</a>
