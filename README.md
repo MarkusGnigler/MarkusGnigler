@@ -3,7 +3,7 @@
 
 <div align="center">   
 <h2>Hi there :wave:, I'm Markus Gnigler</h2>
-<h3>I'm a passionate Webdevelopment that enjoys ...</h3>
+<h3>I'm a passionate Webdeveloper that enjoys ...</h3>
 <h4>Type Safety, Functional & Reactive Programming and Distributed Systems.</h4>
 </div>
 
