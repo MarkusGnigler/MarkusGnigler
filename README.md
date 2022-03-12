@@ -48,7 +48,7 @@
 
 ---
 
-#### 📫 Contact me for all talk's or work belong to Software <a href="https://www.pixeldance.at" target="_blank">PixelDance</a>
+#### 📫 Contact me for all talk's or work belong to Software <a href="https://www.bit-shifter.at" target="_blank">Bit>><<Shifter</a>
 
 ---
 
