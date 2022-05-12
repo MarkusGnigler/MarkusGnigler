@@ -51,7 +51,10 @@
 #### 📫 Contact me for all talk's or work belong to Software <a href="https://www.bit-shifter.at" target="_blank">Bit>><<Shifter</a>
 
 ---
-
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=ibnuuby&column=7&theme=onedark"/>
+</p>
+    
 ![Markus github activity graph](https://activity-graph.herokuapp.com/graph?username=MarkusGnigler&theme=react-dark)
 
 <!-- ![Markus github stats](https://github-readme-stats.vercel.app/api?username=MarkusGnigler&&show_icons=true&theme=radical) -->
