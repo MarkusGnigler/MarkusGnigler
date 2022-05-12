@@ -54,10 +54,18 @@
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=ibnuuby&column=7&theme=onedark"/>
 </p>
+
+<p align="center">
+    [![Top Stats]](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkusGnigler&hide=css,tsql,blade,%20jupyter+notebook&langs_count=10&theme=radical&layout=compact)
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkusGnigler&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+</p>
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=MarkusGnigler&show_icons=true&theme=radical" alt="my github stats" width="420"/>&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarkusGnigler&hide=css,tsql,blade,%20jupyter+notebook&langs_count=10&theme=radical&layout=compact" alt="languages" height="165">
+</p>
     
 ![Markus github activity graph](https://activity-graph.herokuapp.com/graph?username=MarkusGnigler&theme=react-dark)
 
 <!-- ![Markus github stats](https://github-readme-stats.vercel.app/api?username=MarkusGnigler&&show_icons=true&theme=radical) -->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarkusGnigler&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
